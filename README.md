@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cisxo-r
 - 👀 I’m interested in python, web-dev
-- 🌱 I’m currently work in veterinary
 - 📫 How to reach me @georginuus
 
 <!---
